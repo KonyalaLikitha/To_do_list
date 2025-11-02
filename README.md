@@ -21,4 +21,3 @@ python todo_app.py
 4. Commit your fixes with descriptive messages
 5. Push to your GitHub repository
 
-Happy debugging! 🐛
